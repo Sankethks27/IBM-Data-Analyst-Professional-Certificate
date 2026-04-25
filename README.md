@@ -64,5 +64,5 @@ To build a strong foundation in data analysis and create a project portfolio for
 [LinkedIn](https://www.linkedin.com/in/sanketh-ks-181962273/) | [Email](mailto:sankethks27@gmail.com)
 
 ---
-> **Author**: _Sanketh Ks_
+> **Author**: _Sanketh Ks_ 
 > _This repository is part of my personal learning journey and professional portfolio._ 
